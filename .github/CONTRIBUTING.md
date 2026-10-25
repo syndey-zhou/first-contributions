@@ -8,7 +8,7 @@ It's best to think less in terms of what you can do to contribute and more in te
 
 Go through the contribution guidelines in the repository (generally Contributing.md). Pay attention to the details in there. It's very important.
 
-### On LLMs, coding agents and everything marketed as AI
+### On LLMs, coding agents and everything marketed as AI Syndey
 
 It's best to use them as a tool for learning and not to do your work for you.
 
